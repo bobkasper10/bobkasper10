@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobkasper10
 - 👀 I’m interested in modernizing my skills
 - 🌱 I’m currently learning Python and Dialogflow. Next I plan to learn R
-- 💞️ I owned call centers for many year and did lots of programming in VB, Visual Foxpro, SPSS and SAS
+- 💞️ I owned call centers for many year and did lots of programming in VB, Visual Foxpro, SQL, SPSS and SAS
 - 📫 How to reach me bobkasper10@gmail.com
 
 <!---
